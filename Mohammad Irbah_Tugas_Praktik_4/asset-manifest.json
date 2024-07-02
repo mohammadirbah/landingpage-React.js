@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.db62923b.css",
+    "main.js": "/static/js/main.e235359a.js",
+    "static/js/453.a8f463d5.chunk.js": "/static/js/453.a8f463d5.chunk.js",
+    "static/media/alphard.png": "/static/media/alphard.da64c222e2ab69b6ceca.png",
+    "static/media/logoJavas.png": "/static/media/logoJavas.0e3b99efa817feded669.png",
+    "index.html": "/index.html",
+    "main.db62923b.css.map": "/static/css/main.db62923b.css.map",
+    "main.e235359a.js.map": "/static/js/main.e235359a.js.map",
+    "453.a8f463d5.chunk.js.map": "/static/js/453.a8f463d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db62923b.css",
+    "static/js/main.e235359a.js"
+  ]
+}
